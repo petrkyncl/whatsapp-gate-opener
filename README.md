@@ -71,6 +71,7 @@ A smart automation project that allows people to open your gate remotely using a
 https://taskernet.com/shares/?user=AS35m8mxdMzkBJZzsjiTsJirNKvbabqnVhLPQFDYeVrRa11slSRTAOl39NaC1lWD0y4T1HUw&id=Project%3AWhatsApp+%26+SMS+Listener
 ```
 4. Click Import (do NOT enable any profiles yet)
-5. Open ```User Variables``` task, edit your variables, run the task
-6. Open ```Update CSV Data``` task and run it
-7. Enable all profiles
+5. It will create a tab at the bottom in Tasker. Click it.
+6. Open ```User Variables``` task, edit your variables, run the task
+7. Open ```Update CSV Data``` task and run it
+8. Enable all profiles
