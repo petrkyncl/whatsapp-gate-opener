@@ -65,7 +65,7 @@ A smart automation project that allows people to open your gate remotely using a
 ## 🚀 Install & Set-Up
 
 1. Make sure you have Tasker, AutoInput, AutoNotification installed
-2. Remove all tasks and profiles in Tasker
+2. Turn off all existing profiles in Tasker
 4. Open this link on the Android device
 ```
 https://taskernet.com/shares/?user=AS35m8mxdMzkBJZzsjiTsJirNKvbabqnVhLPQFDYeVrRa11slSRTAOl39NaC1lWD0y4T1HUw&id=Project%3AWhatsApp+%26+SMS+Listener
